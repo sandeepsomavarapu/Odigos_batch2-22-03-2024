@@ -1,0 +1,73 @@
+
+
+Language:
+=========
+		english,telugu,hindi,kannada-->communication
+		
+Programming Language:
+=====================
+		communication with machine		
+
+			wireless  mouse  hardware-->software -->program-->instructions
+
+			c,c++,java,.nets,python
+
+			POP							OOP
+B,BCPL,C,COBOL,photon....			c++,java,python,.net,lisp.....
+
+						1)performance		inheritance,polymorphisam 		
+						2)security          abstraction,encapsulation
+
+
+Why  JAVA?:
+
+	1)Platform independent
+	2)Garbage collection  garbage collector
+
+						1996
+
+java 1.x
+	
+java 22		-->sun micro system-->oracle 		
+
+
+
+	PI-->WORA
+	
+	java-->windows
+
+swathi		aryan 
+linux 		windows
+
+
+53 keywords--->lowercase 
+
+welcome to java 
+
+			Welcome.java 
+
+class Welcome
+{
+public static void main(String args[])
+{
+System.out.println("welcome to java");
+
+}
+
+}
+
+//compailation
+//execution
+//jdk
+//jvm
+//jre
+
+
+
+
+
+
+
+
+
+
