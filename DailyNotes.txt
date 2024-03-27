@@ -21,8 +21,8 @@ B,BCPL,C,COBOL,photon....			c++,java,python,.net,lisp.....
 
 Why  JAVA?:
 
-	1)Platform independent
-	2)Garbage collection  garbage collector
+	1)Platform independent  WORA
+	2)Garbage collection  garbage collector automated
 
 						1996
 
@@ -53,14 +53,116 @@ public static void main(String args[])
 System.out.println("welcome to java");
 
 }
-
 }
 
-//compailation
-//execution
+//compailation --compiler-->javac filename.java
+//execution	-->execution-->java classname 
 //jdk
 //jvm
 //jre
+
+Identifiers:
+===============
+identification
+		any name in java will call it as identifier 
+
+	variable name
+	classname
+	interface name
+	method name 
+	.....
+class Welcome@123
+{
+
+
+
+}
+
+	a-z
+	A-Z
+	0-9
+	$
+	_
+
+Variables:
+===========
+a name given to the memory location->variable
+
+		sandeep trainer 99595959590
+
+
+			syntax:
+				
+				datattype varname=value;
+
+	name
+	empid
+	salary
+	email
+	designation
+	age
+	weight 
+	.....
+53
+PDT 			NPDT
+				string,array,
+
+byte	1 byte		-128 to 127
+short	2 bytes		-32768 to 32767
+int		4 bytes		-2147483648 to 2147483647
+long	8 bytes		-2 power 63 to (2 power 63)-1
+						byte age =30;    contactno
+float	4 bytes		23.4343523469236291 5-6
+double	8 bytes					14-15
+
+char	2 bytes				'M'
+boolean 1 bit		true-1,false-0
+
+
+		boolean result=true;
+
+
+	local variable  defined inside the method  
+	global variable	defined outside the method 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
