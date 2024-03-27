@@ -127,6 +127,33 @@ boolean 1 bit		true-1,false-0
 
 
 
+naming conventions
+
+class/interface  -->PascalCase 
+method/variable  -->camcelCase
+
+
+
+	int a =32;
+	int age =32;
+
+
+
+
+class Calculator
+{
+
+}
+
+Variables:
+			local		:inside the method ,up to method 
+			global		:outside the method ,with in class 
+
+
+
+
+
+
 
 
 
