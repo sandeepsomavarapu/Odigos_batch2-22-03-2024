@@ -149,6 +149,72 @@ Variables:
 			local		:inside the method ,up to method 
 			global		:outside the method ,with in class 
 
+package -->folder
+
+	predefined and userdefined 
+	
+	
+	JAVA API -->packages 
+	String ,System --->java.lang
+	
+	
+import java.lang.System;
+import java.lang.*;
+
+
+package 
+myeclipse,eclipse,intellji,vscode,netbeans....
+Eclipse IDE-->integrated Development Environment
+
+public static void main(String args[])
+{
+
+}
+
+	local and global
+	
+		inside the method -->local
+		outside the method -->global
+		
+		compiler
+		javac filename.java
+		
+		java classname -->jvm
+
+instance & static
+=================
+
+syntax
+		static properties will be defied by using static keyword
+		if there is no static that is instance variable/method non-static
+
+
+memory
+		static variables will get memory only once at the time of class loading into JVM
+		instance variables will get memory at the time create object
+			tree banana tree/mango/apple tree
+			car huyndai/honda/audi....
+			
+			Test
+			-->instance 
+			classname objname=new classname();
+			Test test=new Test();
+			
+
+Access
+			instance properties we can access by using obj reference
+			static properties we can access by using classname
+
+
+Usage
+		for common data will go for static 
+			countryname,language,statename,schoolname,organization-->static
+		for unique data will go for instance
+			aadharid,contact,accno,name,......
+
+
+
+
 
 
 
