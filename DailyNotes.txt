@@ -213,12 +213,27 @@ Usage
 			aadharid,contact,accno,name,......
 
 
+methods:
+=========
+method is block of statements
+
+
+100-->code -->code reusability
+
+accessmodifier instance/static returntype methodname(dt varname,dt varname....)
+{
 
 
 
+}
 
 
+public static int add(int a,int b)
+{
 
+return a+b;
+
+}
 
 
 
