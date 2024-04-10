@@ -235,9 +235,35 @@ return a+b;
 
 }
 
+Flow Control Statements:
+========================
+JDK-->JRE-->JVM
+	
+		java-->compile --->.class-->execution-->jvm
+			
+				compiler
+				javac filename.java			java classname 
+				
+				
+				
+		Array-?
 
-
-
+		int a=123;	
+		a=234;
+				
+		array-->group of values....		
+				
+			int nums[]={12,21,43,63,22,65,11};	//index-->0
+				
+				
+			int eids=new int[10];	
+				
+				
+				
+				
+				
+				
+				
 
 
 
