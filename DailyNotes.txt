@@ -259,10 +259,32 @@ JDK-->JRE-->JVM
 			int eids=new int[10];	
 				
 				
+	String,SBuffer,SBuilder-->group of chars			
 				
-				
-				
-				
+				java.lang 
+		String -->imuttable
+
+		SBuffer,SBuilder-->muttable
+		
+		
+		
+		
+		String  orgname="odigos";		literal 
+		String  orgname1=new String("odigos");		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 				
 
 
