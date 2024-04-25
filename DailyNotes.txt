@@ -272,20 +272,220 @@ JDK-->JRE-->JVM
 		String  orgname="odigos";		literal 
 		String  orgname1=new String("odigos");		
 		
+		instance/non-static
 		
 		
 		
+	OOPS:Object oriented programming system
+
+			inheritance
+			polymorphisam	performance
+			
+			abstraction
+			encapsulation   security
 		
 		
 		
+		class Test
+		{
+		
+		//200 methods
 		
 		
+		}
+		
+		extends,implements
 		
 		
+	class Client extends Test    code reusability
+	
+		{
+		//25 methods
+		
+		}	
+
+methods:
+========
+
+	public void m1()	//signature 
+	{
+	
+	//non-abstract /concrete method
+	
+	}
+			//abstract method
+
+	public void m2()	//signature 
+		abstract method
+
+class		  :its collection of only concrete methods
+abstract class: its a combination of both concrete and abstract methods
+interface 	  : its collection of only abstract methods
+
+abstraction :its a process of hiding implmentation by showcasing functionality
+
+		abstract class 	0-100%
+		interface		100%
+
+
+MULTIPLE INHERITANCE:
+==================
+MI not supported by java through classes 
+MI supported by java through interfaces 
+
+					many parents 
+					
+					single child
+
+
+interface Parent 			interface Parent1
+{						{
+m1()					m1()
+
+}						}
+
+
+class Child implements Parent,Parent1
+{
+m1()
+{
+
+}
+
+}
+
+polymorphisam:
+===============
+		method overloading
+		
+			method name is same signature is different 
+					
+									no of params
+									order of params
+									type of params
 		
 		
-		
-				
+		method overring 
+
+method overriding:
+===================
+
+	method name is implmentation/body is different 
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
